@@ -11,5 +11,5 @@ for item in items:
 2.     When will a ZeroDivisionError occur?
     When user input 0 in denominator
 3.   Could you change the code to avoid the possibility of a ZeroDivisionError?
-    Many ways can be used to avoid the possibility of a ZeroDivisionError, for example: while loop
+    Many ways can be used to avoid the possibility of a ZeroDivisionError, for example: while loop.
 """
